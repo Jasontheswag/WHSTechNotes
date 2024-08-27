@@ -1,5 +1,5 @@
 # August 27, 2024
-Today I re-logged into my old github account and updated it. I created th- yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama and WHSTechNotes-yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama yo mama 
+Today I re-logged into my old github account and updated it. I created th- yo mam- and WHSTechNotes-yo mama yo ma-
 
 
-if yo mama = true then open whosyourdaddybutscaryexegame.exe
+set "STOOPID" to true

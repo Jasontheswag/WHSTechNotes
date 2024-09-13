@@ -18,9 +18,19 @@ set "STOOPID" to true
   positive
   prepared
 
+
 # september 13, 2024
   the 4 C's of wagner high school are
   confident
   courageous
   consistent
   communicate
+  
+# september 4, 2024
+  3 sensors on sphero bolt
+  touch sensor
+  light sensor
+  speed sensor
+
+# september 11, 2024
+  precision affects the outcome of a program due to the fact that even one mistake makes the whole program not work. if steps or details are missed the entire thing of code will not work as intended or just not work. it is important to develop good habits of attention to detail early into your coding journey so you can understand specific things in coding.

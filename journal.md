@@ -17,4 +17,10 @@ set "STOOPID" to true
   prompt
   positive
   prepared
-  
+
+# september 13, 2024
+  the 4 C's of wagner high school are
+  confident
+  courageous
+  consistent
+  communicate

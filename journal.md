@@ -37,3 +37,7 @@ set "STOOPID" to true
 
 # september 20, 2024
   on hour of code I did the 3D space invaders
+
+# october 21
+  how does ai improve and harm things.
+  ai could help people out by giving them ideas on stuff they could do for work. ai can make mistakes and it can be very dangerous. ai also steals.

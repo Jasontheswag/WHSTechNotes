@@ -41,3 +41,8 @@ set "STOOPID" to true
 # october 21
   how does ai improve and harm things.
   ai could help people out by giving them ideas on stuff they could do for work. ai can make mistakes and it can be very dangerous. ai also steals.
+
+# October 28, 2024
+  computer technology affects the election process by giving more people the ability to vote. it also might have the chance for some bad person to hack the vote.
+
+  

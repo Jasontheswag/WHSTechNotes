@@ -46,3 +46,8 @@ set "STOOPID" to true
   computer technology affects the election process by giving more people the ability to vote. it also might have the chance for some bad person to hack the vote.
 
   
+# October 15, 2024
+  coding can improve problem solving skills by helping you be able to make your code simpler while still doing the same thing it is meant to do. 
+
+# October 7, 2024
+  I didn't find one. maybe uh..uhmmmmmm.......uhhhhhhhhhhh.......

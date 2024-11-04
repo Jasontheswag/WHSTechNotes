@@ -51,3 +51,6 @@ set "STOOPID" to true
 
 # October 7, 2024
   I didn't find one. maybe uh..uhmmmmmm.......uhhhhhhhhhhh.......
+
+# November 4, 2024
+  your personal information needs to be protected so no one makes it look like you committed a crime online. I don't think I ever shared my personal information online. you can hide your identity while still communicating.

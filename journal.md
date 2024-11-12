@@ -56,4 +56,4 @@ set "STOOPID" to true
   your personal information needs to be protected so no one makes it look like you committed a crime online. I don't think I ever shared my personal information online. you can hide your identity while still communicating.
 
 # November 12, 2024
-  I don't really have an idea of anything, though I guess the invention of the lightbulb did make computer screens exist, I believe.
+  I don't really have an idea of anything, though I guess the invention of the lightbulb did make computer screens exist, I believe. it could make computers have more and more accurate displays, having more of the small lights to display it fully, with a larger amount of pixels.

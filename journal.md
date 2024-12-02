@@ -57,3 +57,9 @@ set "STOOPID" to true
 
 # November 12, 2024
   I don't really have an idea of anything, though I guess the invention of the lightbulb did make computer screens exist, I believe. it could make computers have more and more accurate displays, having more of the small lights to display it fully, with a larger amount of pixels.
+
+# December 2, 2024
+  AI image generation.
+  it concerns me because it steals art.
+  there is no way this could be used in my field of interest.
+  it will probably need to be made so it ONLY uses submitted images that it is allowed to use.

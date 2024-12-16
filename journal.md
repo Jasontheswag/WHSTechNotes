@@ -63,3 +63,7 @@ set "STOOPID" to true
   it concerns me because it steals art.
   there is no way this could be used in my field of interest.
   it will probably need to be made so it ONLY uses submitted images that it is allowed to use.
+
+# December 16, 2024
+  I'm looking forward to this winter break, I am exicted.
+  

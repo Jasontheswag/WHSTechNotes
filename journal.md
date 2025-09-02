@@ -67,3 +67,6 @@ set "STOOPID" to true
 # December 16, 2024
   I'm looking forward to this winter break, I am exicted.
   
+# September 2, 2025
+  computer science expectations:you should never use A.I. EVER, and you should understand how code works.
+  

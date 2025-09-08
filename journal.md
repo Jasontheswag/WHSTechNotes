@@ -70,3 +70,6 @@ set "STOOPID" to true
 # September 2, 2025
   computer science expectations:you should never use A.I. EVER, and you should understand how code works.
   
+# September 8, 2024
+  I am interested in coding, I don't know if I really need to explain.
+  

@@ -70,6 +70,9 @@ set "STOOPID" to true
 # September 2, 2025
   computer science expectations:you should never use A.I. EVER, and you should understand how code works.
   
-# September 8, 2024
+# September 8, 2025
   I am interested in coding, I don't know if I really need to explain.
+
+# September 15, 2025
+  I, personally, do NOT want to use A.I., sorry. but, hey, today is undertale's 10th anniversary! well, if I had to use A.I. for anything, I would use it to probably make some kind of bad joke generator, as it would probably get a good laugh out of others, and it would use samples from people who WANT it to sample their jokes.
   

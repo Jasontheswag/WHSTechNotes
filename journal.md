@@ -75,4 +75,8 @@ set "STOOPID" to true
 
 # September 15, 2025
   I, personally, do NOT want to use A.I., sorry. but, hey, today is undertale's 10th anniversary! well, if I had to use A.I. for anything, I would use it to probably make some kind of bad joke generator, as it would probably get a good laugh out of others, and it would use samples from people who WANT it to sample their jokes.
+
+# September 22, 2025
+  I believe that having virtual jobs you can do to get money is great, as long as it is done right. I don't believe Roblox is their best choice though, since, despite being the most obvious choice, roblox, itself, has been known to not care about anyone on your platform, and it wouldn't be a good idea associating yourself with said things.
+
   

@@ -79,4 +79,5 @@ set "STOOPID" to true
 # September 22, 2025
   I believe that having virtual jobs you can do to get money is great, as long as it is done right. I don't believe Roblox is their best choice though, since, despite being the most obvious choice, roblox, itself, has been known to not care about anyone on your platform, and it wouldn't be a good idea associating yourself with said things.
 
-  
+# September 30, 2025
+  I'm not doing this, this is hell, I am in hell.

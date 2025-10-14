@@ -81,3 +81,9 @@ set "STOOPID" to true
 
 # September 30, 2025
   I'm not doing this, this is hell, I am in hell.
+
+# October 14, 2025
+  I don't want to use A.I. since it steals from people without credit, I honestly don't care if it is more efficient to use A.I. since I want to make everything myself.
+  I'm NOT gonna use AI
+  A.I. sucks lol, that's my conclusion.
+  

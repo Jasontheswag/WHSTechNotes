@@ -92,6 +92,10 @@ set "STOOPID" to true
 # October 27, 2025
   Anything that uses the internet, as it warns them of storms.
 
+# November 10, 2025
+  Technology has let people interact through video calls during the holidays, letting them celebrate it together despite being far apart.
+
+
 # November 3, 2025
   If it runs out of funding, people will have trouble getting food, which could cause them to starve.
   

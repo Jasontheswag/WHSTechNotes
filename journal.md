@@ -95,6 +95,10 @@ set "STOOPID" to true
 # November 10, 2025
   Technology has let people interact through video calls during the holidays, letting them celebrate it together despite being far apart.
 
+# November 17, 2025
+  I am excited for thanksgiving break, as I get a break from being bullied, I get to eat a lot of food, and I get to talk to my family.
+  
+
 
 # November 3, 2025
   If it runs out of funding, people will have trouble getting food, which could cause them to starve.

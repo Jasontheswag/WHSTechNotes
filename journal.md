@@ -103,3 +103,6 @@ set "STOOPID" to true
 # November 3, 2025
   If it runs out of funding, people will have trouble getting food, which could cause them to starve.
   
+# December 1, 2025
+  A job that uses drones is robotics, obviously.
+

@@ -102,7 +102,10 @@ set "STOOPID" to true
 
 # November 3, 2025
   If it runs out of funding, people will have trouble getting food, which could cause them to starve.
-  
+
 # December 1, 2025
   A job that uses drones is robotics, obviously.
 
+# December 8, 2025
+  Self driving cars rely on A.I., which is known to be terrible at it's job. They wouldn't be able to fully detect something like the stop light on the bus, as it is both a stop sign and a stop light, which probably confuses it. They could do something so, if it detects two next to each other, it still takes it as a stop.
+  

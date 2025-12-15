@@ -109,3 +109,5 @@ set "STOOPID" to true
 # December 8, 2025
   Self driving cars rely on A.I., which is known to be terrible at it's job. They wouldn't be able to fully detect something like the stop light on the bus, as it is both a stop sign and a stop light, which probably confuses it. They could do something so, if it detects two next to each other, it still takes it as a stop.
   
+# December 15, 2025
+  I don't have any plans for winter break besides talking to friends and eating a lot

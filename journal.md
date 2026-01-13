@@ -111,3 +111,8 @@ set "STOOPID" to true
   
 # December 15, 2025
   I don't have any plans for winter break besides talking to friends and eating a lot
+
+# January 12, 2026
+  Autcraft exists to prevent things like people harrassing and bullying people with mental disorders.
+  when developers ignore safety, people can get hurt and bullied
+

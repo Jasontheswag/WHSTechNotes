@@ -116,3 +116,6 @@ set "STOOPID" to true
   Autcraft exists to prevent things like people harrassing and bullying people with mental disorders.
   when developers ignore safety, people can get hurt and bullied
 
+# January 29, 2026
+  Despite not being a senior, I did not take EITHER test.
+

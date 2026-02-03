@@ -119,3 +119,5 @@ set "STOOPID" to true
 # January 29, 2026
   Despite not being a senior, I did not take EITHER test.
 
+# February 2, 2026
+  When you behave professionally, you wear appropriate clothing, use family friendly, normal language, and just general actions, like walking normally and not doing some weird dance when walking.

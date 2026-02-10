@@ -121,3 +121,6 @@ set "STOOPID" to true
 
 # February 2, 2026
   When you behave professionally, you wear appropriate clothing, use family friendly, normal language, and just general actions, like walking normally and not doing some weird dance when walking.
+# February 10, 2026
+  I, personally, don't like football (presumably, american)
+  I have not watched Super Bowl LX

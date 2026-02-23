@@ -124,3 +124,6 @@ set "STOOPID" to true
 # February 10, 2026
   I, personally, don't like football (presumably, american)
   I have not watched Super Bowl LX
+
+# February 23, 2026
+  I didn't watch the 2026 winter olympics, but they probably used a lot of cameras.

@@ -125,5 +125,11 @@ set "STOOPID" to true
   I, personally, don't like football (presumably, american)
   I have not watched Super Bowl LX
 
+# March 2, 2026
+  Software engineer and Cybersecurity analyst
+  for a software engineer, you need at least a bachelors degree, knowledge of scripting, and a portfolio with your coding abilities.
+  for a cybersecurity analyst, you need at least a bachelors degree in cybersecurity, computer science, or any other related field.
+
+
 # February 23, 2026
   I didn't watch the 2026 winter olympics, but they probably used a lot of cameras.

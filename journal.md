@@ -131,5 +131,10 @@ set "STOOPID" to true
   for a cybersecurity analyst, you need at least a bachelors degree in cybersecurity, computer science, or any other related field.
 
 
-# February 23, 2026
+# March 23, 2026
   I didn't watch the 2026 winter olympics, but they probably used a lot of cameras.
+
+# March 30, 2026
+  Computers cannot predict things such as noise and anything that is randomly generated
+  A.I. (generative specifically) requires a LOT of water to cool itself down because it takes a LOT for it to predict what to do next
+

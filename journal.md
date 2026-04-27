@@ -138,3 +138,6 @@ set "STOOPID" to true
   Computers cannot predict things such as noise and anything that is randomly generated
   A.I. (generative specifically) requires a LOT of water to cool itself down because it takes a LOT for it to predict what to do next
 
+
+# April 27, 2026
+  I listen to music made using softwares on computers, specifically music made by friends of mine. They use the software since they aren't able to do things like get an entire symphony nor make sheet music. 

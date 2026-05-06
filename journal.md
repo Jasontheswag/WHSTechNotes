@@ -134,9 +134,13 @@ set "STOOPID" to true
 # March 23, 2026
   I didn't watch the 2026 winter olympics, but they probably used a lot of cameras.
 
-# March 30, 2026
+# April 30, 2026
   Computers cannot predict things such as noise and anything that is randomly generated
   A.I. (generative specifically) requires a LOT of water to cool itself down because it takes a LOT for it to predict what to do next
+
+# May 6, 2026
+  I never used A.I. on my work, it is never worth it, I never even used chatGPT
+  Yes, I know things I do are used to train A.I., including videos and music I make!
 
 
 # April 27, 2026

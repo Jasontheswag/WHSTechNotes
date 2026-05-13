@@ -145,3 +145,6 @@ set "STOOPID" to true
 
 # April 27, 2026
   I listen to music made using softwares on computers, specifically music made by friends of mine. They use the software since they aren't able to do things like get an entire symphony nor make sheet music. 
+
+# May 11, 2026
+  I improved in how I write sentences, along with improving with how I talk to people. I have become better with leadership and am better at telling people what to do. I've gotten a bit better at handing stress, though I am still not that good at it. I am definitely more emotionally mature and speak more correctly. I have gotten better with confidence, though it is DEFINITELY NOT good enough.
